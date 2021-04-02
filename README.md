@@ -1,4 +1,4 @@
-# Luke's build of dwm
+# Suke's fork of Luke's build of dwm
 
 ## FAQ
 
